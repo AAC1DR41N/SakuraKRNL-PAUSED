@@ -1,4 +1,4 @@
-# SakuraOS
+# SakuraKRNL
 Silly lil project, big dreams, big pain. 
 
 Well uh. Here we are, huh? Never thought ill actually continue working on this.
